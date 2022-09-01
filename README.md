@@ -1,2 +1,3 @@
-# goit-react-hw-02-phonebook
-Module 2. State, Forms
+# react-02-phonebook
+
+##2. State, Forms
