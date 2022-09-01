@@ -1,3 +1,3 @@
 # react-02-phonebook
 
-##2. State, Forms
+## 2. State, Forms
